@@ -17,9 +17,11 @@ export default function MainSection() {
             </div>
             <div className="relative md:w-1/2 col gap-4 center">
                 <img
-                    src="/assets/Designer.png"
+                    src="/assets/banner.jpeg"
                     alt="etherum_logo"
-                    className="w-[86%] h-[70%] object-contain"
+                    className="w-[86%] h-[70%] object-contain mask-image: radial-gradient(circle, rgba(0, 0, 0, 1) 80%, rgba(0, 0, 0, 0) 100%);
+           -webkit-mask-image: radial-gradient(circle, rgba(0, 0, 0, 1) 80%, rgba(0, 0, 0, 0) 100%)"
+                    
                 />
             </div>
         </section>

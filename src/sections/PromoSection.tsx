@@ -16,7 +16,20 @@ export default function PromoSection() {
                     Amazing User Experince. We invite you to join yourself in this amazing journey of 
                     trading your opinions in the pool trading.
                 </span>
-                <Button outline>Start Trading</Button>
+                <a href="https://t.me/opinionx_bot" style={{ textDecoration: "none" }}>
+  <button style={{
+      border: "2px solid white",
+      borderRadius: "12px", // For curved edges
+      padding: "10px 20px", // For sufficient padding
+      backgroundColor: "#007BFF", // Optional: Add background color
+      color: "white", // Text color for contrast
+      cursor: "pointer", // Pointer cursor for better UX
+      fontSize: "16px", // Adjust font size for better readability
+    }}>
+    Join Tournament
+  </button>
+</a>
+
             </article>
         </section>
     );
@@ -59,7 +72,14 @@ export function PromoSectionV1() {
                         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem illo
                         eaque fugiat pariatur error!
                     </span>
-                    <Button outline>Join Tournament</Button>
+                    <a href="https://t.me/opinionx_bot">
+                    <button Outline>Join Tournament</button>
+                    </a>
+                    <a href="https://t.me/opinionx_bot">
+                    dd
+                    </a>
+                    <p>hii</p>
+                     
                 </article>
             </div>
         </section>

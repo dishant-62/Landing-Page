@@ -8,7 +8,7 @@ const socialIcons = [AiOutlineTwitter, FaBitcoin, RiDiscordFill, FaGithub];
 const links = [
     ["About us", "Our team", "Team Details"],
     ["Company", "Wallet", "Create Page", "Login Page", "Registration", "Checkout"],
-    ["Services", "Contact Us", "Shop page", "Shop Details", "Collectors"],
+    ["Services", "Contact Us"],
 ];
 
 export default function FooterSection() {

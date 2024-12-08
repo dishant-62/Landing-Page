@@ -73,7 +73,7 @@ export function PromoSectionV1() {
                         eaque fugiat pariatur error!
                     </span>
                     <a href="https://t.me/opinionx_bot">
-                    <button Outline>Join Tournament</button>
+                    <button>Join Tournament</button>
                     </a>
                     <a href="https://t.me/opinionx_bot">
                     dd

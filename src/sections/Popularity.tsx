@@ -12,15 +12,15 @@ const values = [
 const cards: CardProps[] = [
     {
         icon: <MdOutlineVerifiedUser size={44} color="#71dcf5" />,
-        title: "AI Opinion Polls",
+        title: "Telegram Mini App",
         description:
-            "Trending Prediction polls will be create by AI agent.",
+            "One of the finest User Experince is created for the users. ",
     },
     {
         icon: <RiWallet3Line size={44} color="#948fe8" />,
-        title: "Telegram Mini App",
+        title: "Global governance and sentiment tracking",
         description:
-            "User friendly Mini App for use, No need to hastle for different devices.",
+            "Solving traditional systems lack transparency and efficiency in decision-making with AI-LLM models.",
     },
     {
         icon: <AiOutlineCheckCircle size={44} color="#ea9bfa" />,

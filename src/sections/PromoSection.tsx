@@ -16,7 +16,7 @@ export default function PromoSection() {
                     Amazing User Experince. We invite you to join yourself in this amazing journey of 
                     trading your opinions in the pool trading.
                 </span>
-                <a href="https://t.me/opinionx_bot" style={{ textDecoration: "none" }}>
+                <a href="https://t.me/opinionx_bot" target="_blank" style={{ textDecoration: "none" }}>
   <button style={{
       border: "2px solid white",
       borderRadius: "12px", // For curved edges
@@ -26,7 +26,7 @@ export default function PromoSection() {
       cursor: "pointer", // Pointer cursor for better UX
       fontSize: "16px", // Adjust font size for better readability
     }}>
-    Join Tournament
+    Platform Link
   </button>
 </a>
 

@@ -8,11 +8,21 @@ export default function MainSection() {
                     Monetize Your Opinions
                 </h1>
                 <span className="text-app_gray leading-8 text-xl">
-                    Explore the world of Opinions. Leveraging AI for trending Opinion Polls.
+                Autonomous Governance for Decentralized Opinion Markets. <br />
+                Explore the world of Opinions. Leveraging AI for trending Opinion Polls. Opinion Trading Mini App based on Telegram to trade your opinions globally!
                 </span>
                 <div className="row gap-4">
-                    <Button>Get Started</Button>
-                    <Button outline={true}>Join Discord</Button>
+                <a href="https://t.me/opinionx_bot" target="_blank" style={{
+      border: "2px solid white",
+      borderRadius: "12px", // For curved edges
+      padding: "10px 20px", // For sufficient padding
+      backgroundColor: "#007BFF", // Optional: Add background color
+      color: "white", // Text color for contrast
+      cursor: "pointer", // Pointer cursor for better UX
+      fontSize: "16px", // Adjust font size for better readability
+    }}>
+  <button>Get Started</button></a>
+                    {/* <Button outline={true}>Join Discord</Button> */}
                 </div>
             </div>
             <div className="relative md:w-1/2 col gap-4 center">

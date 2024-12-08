@@ -2,9 +2,9 @@ import Heading from "../components/Heading";
 import { SectionProps } from "../types";
 
 const tags = [
-    "Wide range of topics",
+    "Token Utility (OPX)",
     "Trending topic Polls",
-    "Eliza Agent with AI empowered polls",
+    "AI-Driven trending questions",
     "Multiple Wallet Support",
 ];
 

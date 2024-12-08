@@ -6,7 +6,7 @@ import { AiOutlineCheckCircle } from "react-icons/ai";
 const values = [
     { value: "1+", label: "Opinions Poll Per 2 Hour" },
     // { value: "102", label: "Artworks" },
-    // { value: "3.2", label: "Artisits" },
+    // { value: "3.2", label: "Artisits" }, erehbryery
 ];
 
 const cards: CardProps[] = [

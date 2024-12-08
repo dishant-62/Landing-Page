@@ -4,7 +4,7 @@ import { RiWallet3Line } from "react-icons/ri";
 import { AiOutlineCheckCircle } from "react-icons/ai";
 
 const values = [
-    { value: "3+", label: "Opinions Polls/Hour" },
+    { value: "1+", label: "Opinions Poll Per 2 Hour" },
     // { value: "102", label: "Artworks" },
     // { value: "3.2", label: "Artisits" },
 ];
